@@ -1,8 +1,8 @@
 {
   "license": "MIT",
-  "name": "react-konva",
+  "name": "@maxired/react-konva",
   "description": "React binding to canvas element via Konva framework",
-  "version": "17.0.2-4",
+  "version": "17.0.2-5",
   "keywords": [
     "react",
     "canvas",
@@ -41,6 +41,7 @@
   },
   "devDependencies": {
     "@types/react": "17.0.6",
+    "@types/react-reconciler": "^0.26.3",
     "@wojtekmaj/enzyme-adapter-react-17": "0.6.1",
     "chai": "4.3.4",
     "enzyme": "3.11.0",
